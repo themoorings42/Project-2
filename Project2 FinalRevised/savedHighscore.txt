@@ -1,0 +1,10 @@
+7 q q e BEG
+4 w q e INT
+4 e q e ADV
+5 q 1 e BEG
+5 w q e INT
+4 w q 4 ADV
+4 q e r BEG
+5 w e r INT
+3 e m r ADV
+5 1 0 0 BEG
